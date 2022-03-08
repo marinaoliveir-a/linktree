@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+#logo {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+p {
+    font-size: 20px;
+    padding: 10px;
+}
+.cards img {
+    width: 100px;
+    height: 100px;
+}
+li {
+   list-style: none;
+   display: block;
+   padding: 10px;
+   
+}
+
+
+a {
+    display: block;
+    text-decoration: none;
+    font-size: 20px ;
+}
+a:hover{
+    font-size: 25px;
+}
+
+footer {
+    padding: 10px;
+    margin-top: 10px;
+    background: rgb(64,203,234);
+    background: linear-gradient(90deg, rgba(64,203,234,1) 0%, rgba(134,221,243,1) 35%, rgba(156,232,238,1) 100%);
+}
